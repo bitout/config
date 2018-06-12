@@ -1,0 +1,11 @@
+{
+    BasedOnStyle: Google,
+    IndentWidth: 4,
+    AccessModifierOffset: -4,
+    AlignTrailingComments: true,
+    ColumnLimit: 100,
+    SpaceAfterTemplateKeyword: false,
+    BinPackArguments: false, 
+    BinPackParameters: false,
+    AllowAllParametersOfDeclarationOnNextLine: false,
+}
